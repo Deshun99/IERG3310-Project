@@ -1,9 +1,9 @@
-IERG3310
+# IERG3310
+CUHK IERG3310 Project (Fall 2020)
 
-CUHK IERG3310 Project 
 
-Run robot.py before student.py for step 1 - 5
+Socket Programming Project with Python.
 
-Run robot6.py before student6.py for step 6
+Testing TCP and UDP. See the differences
 
-Run robot7-8.py before student7-8.py for step 7 - 8
+Run the 2 python files at the same time (Robot.py is slightly before student.py)
