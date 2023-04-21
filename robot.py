@@ -22,7 +22,7 @@ print ("Creating TCP socket...")
 listenSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 listenSocket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 listenSocket.bind((localhost, listenPort))
-listenSocket.listen(5)
+listenSocket.listen(10)
 print ("Done")
 
 print ("\nTCP socket created, ready for listening and accepting connection...")
